@@ -1,4 +1,4 @@
-# Adidas US Sales Analysis (2020–2021)
+# Addidas US Sales Analysis (2020–2021)
 
 This repository showcases a **Power BI case study** analyzing **Adidas US sales (2020–2021)**. It focuses on **data cleaning & preparation**, **advanced insight ideas**, and a clear **dashboard walkthrough** without full EDA, by design.
 
