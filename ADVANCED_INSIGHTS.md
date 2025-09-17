@@ -1,6 +1,6 @@
 # ADVANCED_INSIGHTS.md
 
-Ideas to differentiate your analysis (document results later; no EDA here).
+Ideas to differentiate this analysis (no EDA here on Python).
 
 ## 1) Forecasting (Channel-Level)
 - Aggregate monthly `Total Sales` by **Sales Method**.
