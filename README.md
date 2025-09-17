@@ -11,7 +11,7 @@ This repository showcases a **Power BI case study** analyzing **Adidas US sales 
 - `scripts/` — (optional) automation or forecasting scripts
 
 ## Project Goals (No EDA)
-1) **Data Cleaning & Preparation** — document assumptions, data types, integrity checks, and transformations. See **[DATA_CLEANING.md](docs/DATA_CLEANING.md)** and **[sql/](sql/)**.
+1) **Data Cleaning & Preparation** — document assumptions, data types, integrity checks, and transformations. See **[DATA_CLEANING.md](DATA_CLEANING.md)** and **[sql/](sql/)**.
 2) **Advanced Insight Ideas** — outline value-add analyses (forecasting, price elasticity, channel profitability, inventory signals) to stand out. See **[docs/ADVANCED_INSIGHTS.md](docs/ADVANCED_INSIGHTS.md)**.
 3) **Power BI Walkthrough** — explain dashboard pages, filters, and how stakeholders use it. See **[docs/POWERBI_GUIDE.md](docs/POWERBI_GUIDE.md)**.
 
