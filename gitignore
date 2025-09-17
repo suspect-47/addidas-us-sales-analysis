@@ -6,17 +6,6 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Python (optional future scripts)
-__pycache__/
-*.pyc
-.venv/
-env/
-venv/
-
-# R (optional)
-.Rhistory
-.Rproj.user/
-
 # Power BI & data (use LFS)
 *.pbix
 *.xlsx
