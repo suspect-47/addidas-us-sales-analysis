@@ -26,10 +26,10 @@ This document records **data preparation** choices for transparency and reproduc
 - Use a **Star Schema** (FactSales + DimDate + DimProduct + DimGeo + DimRetailer), even if derived from a single table.
 - Add relationships by surrogate keys as needed (e.g., City→State→Region).
 
-## 5) Data Quality SQL (examples)
-See `sql/` for runnable examples: schema, quality checks, and basic transforms.
+## 5) Data Quality SQL
+See `sql/` for runnables: schema, quality checks, and basic transforms.
 
-## 6) Assumptions
+## 6) Assumptions & Limitations
 - Prices and margins are pre-tax.
 - Invoice Date reflects transaction posting date.
-- Operating Margin provided is consistent with Profit/Revenue. If mismatched, recompute.
+- Operating Margin provided is consistent with Profit/Revenue. Recomputation is necessary.
