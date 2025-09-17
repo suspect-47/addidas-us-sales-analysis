@@ -24,9 +24,10 @@ This repository showcases a **Power BI case study** analyzing **Adidas US sales 
 - **SQL** for schema design, quality checks, and transformations
 
 ## How to Use
-1. Open `dashboard/sales_analysis_Adidas_US_2020_2021.pbix` in Power BI Desktop.
-2. Replace data source path if prompted to the Excel file in `data/`.
-3. Explore pages, slicers, and KPIs (see **POWERBI_GUIDE.md**).
+1. Download **[sales_analysis_addidas_us_2020-2021.pbix](sales_analysis_addidas_us_2020-2021.pbix)**
+2. Open `sales_analysis_Adidas_US_2020_2021.pbix` in Power BI Desktop.
+3. Replace data source path if prompted to the Excel file in `data/`.
+4. Explore pages, slicers, and KPIs (see **POWERBI_GUIDE.md**).
 
 ## Repo Topics
 `powerbi`, `business-intelligence`, `sales-analytics`, `sql`, `data-cleaning`
