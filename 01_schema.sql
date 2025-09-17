@@ -1,5 +1,5 @@
 -- 01_schema.sql
--- Example schema to stage the Adidas sales table
+-- schema to stage the Adidas sales table
 CREATE TABLE IF NOT EXISTS sales_adidas_us_2020_2021 (
     retailer TEXT,
     retailer_id BIGINT,
