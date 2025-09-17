@@ -1,6 +1,6 @@
 -- 03_transformations.sql
 
--- Example: compute/standardize fields into a clean view
+-- computed/standardized fields into a clean view
 CREATE OR REPLACE VIEW sales_clean AS
 SELECT
     retailer,
